@@ -4,6 +4,8 @@ It knows when you open one of your favourite productivity-draining sites. It has
 
 Use the settings to add a blacklist. I don't need to tell you what goes on there. You know it already. It's ingrained into your muscle memory. With enough un-practise, maybe your fingers will forget.
 
+Download it on the [releases page](https://github.com/cormacrelf/instead/releases).
+
 *By [`@cormacrelf`](http://cormacrelf.com/about.html)*
 
 ## Roadmap
