@@ -7,9 +7,9 @@
 	<key>Builder Version</key>
 	<string>8536.28.10</string>
 	<key>CFBundleDisplayName</key>
-	<string>Things</string>
+	<string>Instead</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.cormacrelf.things</string>
+	<string>com.cormacrelf.instead</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -29,7 +29,7 @@
 		<dict/>
 	</dict>
 	<key>Description</key>
-	<string>Open things when you hit up specific websites</string>
+	<string>Open something instead when you hit up specific websites</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
