@@ -26,5 +26,15 @@
 		<key>Type</key>
 		<string>TextField</string>
 	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<string>things://</string>
+		<key>Key</key>
+		<string>scheme</string>
+		<key>Title</key>
+		<string>URL to open Instead</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
 </array>
 </plist>

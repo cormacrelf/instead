@@ -23,7 +23,7 @@
 				event.preventDefault();
 				// The target of the event is always a tab object, .url is mutable
 				// And changing .url navigates there.
-				event.target.url = 'things://';
+				event.target.url = safari.extension.settings.scheme;
 				return;
 			}
 
